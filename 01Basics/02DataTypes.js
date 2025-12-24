@@ -5,7 +5,7 @@
 console.log(3 
     +
      3) // bekaar style
-console.log("Arnav")
+console.log("Arnav") // string literal
 
 
 let name = "Arnav"
