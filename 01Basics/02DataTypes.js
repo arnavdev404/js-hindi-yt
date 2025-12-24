@@ -5,10 +5,10 @@
 console.log(3 
     +
      3) // bekaar style
-console.log("Hitesh")
+console.log("Arnav")
 
 
-let name = "hitesh"
+let name = "Arnav"
 let age = 18
 let isLoggedIn = false
 let state;
